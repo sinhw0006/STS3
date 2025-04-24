@@ -1,0 +1,7 @@
+com\ex00\init\Controller\ParameterTestController.class
+com\ex00\init\domain\DTO\PersonDTO.class
+com\ex00\init\domain\DTO\PersonDTO$PersonDTOBuilder.class
+com\ex00\init\Controller\SimpleController.class
+com\ex00\init\Controller\HomeController.class
+com\ex00\init\config\PersonCompoent.class
+com\ex00\init\config\PersonDTOBeanConfig.class

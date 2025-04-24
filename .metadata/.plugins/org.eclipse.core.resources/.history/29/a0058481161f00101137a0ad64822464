@@ -1,0 +1,5 @@
+package com.ex00.init.domain.DTO;
+
+public class Person {
+
+}

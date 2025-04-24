@@ -1,0 +1,12 @@
+package com.ex00.init.config;
+
+import org.springframework.context.annotation.Configuration;
+
+import com.ex00.init.domain.DTO.PersonDTO;
+
+@Configuration
+public class PersonDTOBeanConfig {
+	public PersonDTO person03() {
+		return new PersonDTO("김박사", 44, "서울");
+	}
+}

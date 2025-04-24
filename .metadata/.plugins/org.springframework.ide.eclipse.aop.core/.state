@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="ex01_LOMBOK_ID"/>
+<aop-project name="ex02_parameter"/>
+<aop-project name="ex00_init"/>
+</aop-reference-model>

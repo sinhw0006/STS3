@@ -1,0 +1,17 @@
+package com.ex00.init.Controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import lombok.extern.slf4j.Slf4j;
+
+@Slf4j
+@Controller
+@RequestMapping("/param")
+public class ParameterTestController {
+	@RequestMapping(value = "/p01", method = RequestMethod.GET)
+	
+	
+	
+
+}

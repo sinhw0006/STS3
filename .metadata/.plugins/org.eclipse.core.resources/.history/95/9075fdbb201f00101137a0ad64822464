@@ -1,0 +1,8 @@
+package com.ex00.init.config;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class PersonDTOBeanConfig {
+	
+}
