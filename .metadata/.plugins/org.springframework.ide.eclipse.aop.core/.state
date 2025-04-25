@@ -2,5 +2,8 @@
 <aop-reference-model>
 <aop-project name="ex01_LOMBOK_ID"/>
 <aop-project name="ex02_parameter"/>
+<aop-project name="ex05_dataSource"/>
 <aop-project name="ex00_init"/>
+<aop-project name="ex03_dataValidation"/>
+<aop-project name="ex06_mybatis"/>
 </aop-reference-model>
